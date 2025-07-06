@@ -1,0 +1,92 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2592,
+    "time": 1751765565,
+    "hash": "354d08021266008dd131601151741f19fc29f406"
+  },
+  ".hoa/worktree.json": {
+    "size": 2568,
+    "time": 1751764159,
+    "hash": "068e87894fed6222537b59b82b692baf4213bd69"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713079998,
+    "hash": "bd50471f562fe0669d2319ed727a66728b8b1cbc"
+  },
+  "README.md": {
+    "size": 1709,
+    "time": 1721549474,
+    "hash": "8382e98293ae6e28ee693d9340c0aace65ac9d7b"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  },
+  "assignments/2022_yzk/第1章作业.pdf": {
+    "size": 5760139,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第2章作业.pdf": {
+    "size": 6626722,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第3章作业.pdf": {
+    "size": 7916022,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第4章作业.pdf": {
+    "size": 5451739,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第5-6章作业.pdf": {
+    "size": 9802216,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第7章作业.pdf": {
+    "size": 3663942,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2023_lxy_数学规划课后习题参考解答.pdf": {
+    "size": 7355698,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  },
+  "materials/AUTO3028数学规划与数值优化课程教学大纲2024.5.23.docx": {
+    "size": 22280,
+    "time": 1721548060,
+    "hash": "f178fc0cbe8a229d7be2e25c501c7560139de16c"
+  },
+  "materials/MATH3010数学规划课程教学大纲20211114.docx": {
+    "size": 28377,
+    "time": 1721548060,
+    "hash": "f178fc0cbe8a229d7be2e25c501c7560139de16c"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  },
+  "tag.txt": {
+    "size": 116,
+    "time": 1721549474,
+    "hash": "8382e98293ae6e28ee693d9340c0aace65ac9d7b"
+  }
+}
