@@ -1,0 +1,71 @@
+ID: "AUTO3028"
+SimilarID: []
+Name: "数学规划与数值优化"
+CourseProperty:
+  Major:
+    - Year: "2024_2025"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3028"
+  CourseName: "数学规划与数值优化"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "/blog/数学规划与数值优化" 
+    Desc: "此课程为数学规划与数值优化，包含理论与上机环节。"
+    Name: "数学优化课程"
+    Ids: ["AUTO301", "AUTO302", "AUTO303"]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: 30
+    - Name: "上机实验"
+      Percentage: 40
+    - Name: "期末考试"
+      Percentage: 60
+  CourseHourComposition:
+    - Name: "讲课"
+      Hour: 28
+    - Name: "上机"
+      Hour: 4
+
+---
+
+ID: "AUTO3028"
+SimilarID: []
+Name: "数学规划与数值优化"
+CourseProperty:
+  Major:
+    - Year: "2025_2026"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3028"
+  CourseName: "数学规划与数值优化"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "/blog/数学规划与数值优化" 
+    Desc: "此课程为数学规划与数值优化，包含理论与上机环节。"
+    Name: "数学优化课程"
+    Ids: ["AUTO301", "AUTO302", "AUTO303"]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: 30
+    - Name: "上机实验"
+      Percentage: 40
+    - Name: "期末考试"
+      Percentage: 60
+  CourseHourComposition:
+    - Name: "讲课"
+      Hour: 28
+    - Name: "上机"
+      Hour: 4
