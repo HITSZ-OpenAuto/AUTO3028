@@ -1,0 +1,85 @@
+# 歧义说明：
+# 1. README 中使用 "21级" 和 "23级" 来区分不同的分数构成，这并非标准年份。为保留该信息，grading 字段的键名直接使用了 "21级" 和 "23级"，而非规则中要求的年份。
+course_name: "数学规划与数值优化"
+course_code: ""
+notices: ""
+grading:
+  21级: "作业(30%) + 期末考试(70%)"
+  23级: "作业(40%) + 期末考试(60%)"
+teachers:
+  - name: "谢秉磊"
+    reviews:
+      - content: "19-21 级，该课程由理学院负责，与低一级的电信学生共同开课。"
+        submitter:
+          name: ""
+          link: ""
+  - name: "王雁"
+    reviews:
+      - content: "22 级开始该课程转由机电学院负责，学时有所压减，23 级还增加了上机环节。"
+        submitter:
+          name: ""
+          link: ""
+textbooks:
+  - title: "数学规划及其应用"
+    author: "范玉妹等"
+    publisher: "机械工业出版社"
+    edition: "2018"
+    type: "textbook"
+    submitter:
+      name: ""
+      link: ""
+  - title: "运筹学"
+    author: "教材编写组《运筹学》"
+    publisher: "清华大学出版社"
+    edition: "2005"
+    type: "reference"
+    submitter:
+      name: ""
+      link: ""
+  - title: "数学规划基础"
+    author: "刘红英等"
+    publisher: "北京航空航天大学出版社"
+    edition: "2012"
+    type: "reference"
+    submitter:
+      name: ""
+      link: ""
+  - title: "数据、模型与决策"
+    author: "安得森等"
+    publisher: "机械工业出版社"
+    edition: "2012"
+    type: "reference"
+    submitter:
+      name: ""
+      link: ""
+  - title: "运筹学的思想方法及应用"
+    author: "焦宝聪"
+    publisher: "北京大学出版社"
+    edition: "2008"
+    type: "reference"
+    submitter:
+      name: ""
+      link: ""
+  - title: "运筹学与最优化方法"
+    author: "吴祈宗"
+    publisher: "机械工业出版社"
+    edition: "2013"
+    type: "reference"
+    submitter:
+      name: ""
+      link: ""
+online_resources: []
+about_course: []
+about_exam: []
+study_advice: []
+schedule:
+  - content: "22级开始，总学时32，其中讲课28学时，上机4学时。"
+    submitter:
+      name: ""
+      link: ""
+related_links: []
+misc:
+  - content: "原先的与现在的课程大纲都放在 materials 文件夹里，大家可自行比对。"
+    submitter:
+      name: ""
+      link: ""
