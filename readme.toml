@@ -1,0 +1,42 @@
+course_name = "数学规划与数值优化"
+repo_type = "normal"
+course_code = "AUTO3028"
+
+description = """
+19-21 级，该课程由理学院负责，与低一级的电信学生共同开课。
+22 级开始该课程转由机电学院负责，学时有所压减。
+23 级还增加了上机环节。
+原先的与现在的课程大纲都放在 materials 文件夹里，大家可自行比对。
+"""
+
+[[lecturers]]
+name = "谢秉磊"
+
+[[lecturers.reviews]]
+content = "19-21 级授课教师，该阶段由理学院负责，与低一级的电信学生共同开课。"
+
+[[lecturers]]
+name = "王雁"
+
+[[lecturers.reviews]]
+content = "22 级开始该课程转由机电学院负责，学时有所压减，23 级还增加了上机环节。"
+
+
+[[sections]]
+title = "教材"
+
+[[sections.items]]
+content = """
+- **数学规划及其应用**（范玉妹 等 / 机械工业出版社 / 2018 / textbook）
+- **运筹学**（教材编写组 / 清华大学出版社 / 2005 / textbook）
+- **数学规划基础**（刘红英 等 / 北京航空航天大学出版社 / 2012 / textbook）
+- **数据、模型与决策**（安得森 等 / 机械工业出版社 / 2012 / textbook）
+- **运筹学的思想方法及应用**（焦宝聪 / 北京大学出版社 / 2008 / textbook）
+- **运筹学与最优化方法**（吴祈宗 / 机械工业出版社 / 2013 / textbook）
+"""
+
+[[sections]]
+title = "关于考试"
+
+[[sections.items]]
+content = "成绩构成：作业 30%，期末考试 70%。"
