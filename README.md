@@ -1,4 +1,6 @@
 # AUTO3028 - 数学规划与数值优化
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
@@ -12,11 +14,16 @@
 ## 授课教师
 
 - 谢秉磊
+  <!-- TOML-ITEM: id="review-谢秉磊-1" -->
   - 19-21 级授课教师，该阶段由理学院负责，与低一级的电信学生共同开课。
 - 王雁
+  <!-- TOML-ITEM: id="review-王雁-1" -->
   - 22 级开始该课程转由机电学院负责，学时有所压减，23 级还增加了上机环节。
 
 ## 教材
+<!-- TOML-SECTION: title="教材" -->
+
+<!-- TOML-ITEM: id="item-教材-1" -->
 
 - **数学规划及其应用**（范玉妹 等 / 机械工业出版社 / 2018 / textbook）
 - **运筹学**（教材编写组 / 清华大学出版社 / 2005 / textbook）
