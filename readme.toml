@@ -1,7 +1,6 @@
 course_name = "数学规划与数值优化"
-repo_type = "normal"
 course_code = "AUTO3028"
-
+repo_type = "normal"
 description = """
 19-21 级，该课程由理学院负责，与低一级的电信学生共同开课。
 22 级开始该课程转由机电学院负责，学时有所压减。
@@ -9,18 +8,19 @@ description = """
 原先的与现在的课程大纲都放在 materials 文件夹里，大家可自行比对。
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "谢秉磊"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "19-21 级授课教师，该阶段由理学院负责，与低一级的电信学生共同开课。"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "王雁"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "22 级开始该课程转由机电学院负责，学时有所压减，23 级还增加了上机环节。"
-
 
 [[sections]]
 title = "教材"
