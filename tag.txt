@@ -1,4 +1,0 @@
-category: 限选
-module: 控制理论与控制工程
-semester: 第三学年秋季
-name: 数学规划与数值优化
