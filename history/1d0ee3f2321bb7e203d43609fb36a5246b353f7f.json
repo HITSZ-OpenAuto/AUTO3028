@@ -1,0 +1,87 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763813840,
+    "hash": "d193e27a8b8891a3a5b46855ea493416d474f07e"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713079998,
+    "hash": "bd50471f562fe0669d2319ed727a66728b8b1cbc"
+  },
+  "README.md": {
+    "size": 1376,
+    "time": 1791961144,
+    "hash": "1d0ee3f2321bb7e203d43609fb36a5246b353f7f"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  },
+  "assignments/2022_yzk/第1章作业.pdf": {
+    "size": 5760139,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第2章作业.pdf": {
+    "size": 6626722,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第3章作业.pdf": {
+    "size": 7916022,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第4章作业.pdf": {
+    "size": 5451739,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第5-6章作业.pdf": {
+    "size": 9802216,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第7章作业.pdf": {
+    "size": 3663942,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2023_lxy_数学规划课后习题参考解答.pdf": {
+    "size": 7355698,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  },
+  "materials/AUTO3028《数学规划与数值优化》20240415.doc": {
+    "size": 62976,
+    "time": 1752820621,
+    "hash": "538af492a3479fff65335d17abf19926d7e22f1f"
+  },
+  "materials/MATH3010数学规划课程教学大纲20211114.docx": {
+    "size": 28377,
+    "time": 1721548060,
+    "hash": "f178fc0cbe8a229d7be2e25c501c7560139de16c"
+  },
+  "readme.toml": {
+    "size": 1384,
+    "time": 1773427785,
+    "hash": "1261b9a871decfa4d8f0202bdabf3ed52091cac1"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  }
+}
