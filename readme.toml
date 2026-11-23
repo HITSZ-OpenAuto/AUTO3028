@@ -22,6 +22,10 @@ name = "王雁"
 [[lecturers.items.reviews]]
 content = "22 级开始该课程转由机电学院负责，学时有所压减，23 级还增加了上机环节。"
 
+[[lecturers.items.reviews]]
+content = "2025 秋季：讲解含糊不清晰，建议看 B 站黄丽娟运筹学网课自学。期末考试难度较低，只掌握线性规划的单纯形法足够及格。"
+author = { name = "BCC", link = "https://github.com/BCCHIT", date = "2026-11" }
+
 [[sections]]
 title = "教材"
 
