@@ -10,9 +10,9 @@
     "hash": "bd50471f562fe0669d2319ed727a66728b8b1cbc"
   },
   "README.md": {
-    "size": 1376,
-    "time": 1791961144,
-    "hash": "1d0ee3f2321bb7e203d43609fb36a5246b353f7f"
+    "size": 1643,
+    "time": 1795393359,
+    "hash": "1290f4a7dd1ecd154a7530255e5306dba2def1c8"
   },
   "assignments/.gitkeep": {
     "size": 0,
@@ -59,6 +59,21 @@
     "time": 1737626894,
     "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
   },
+  "labs/2025_BCC/Lingo1_NonLinearProgramming.lg4": {
+    "size": 5632,
+    "time": 1795393347,
+    "hash": "dfb87cd24d4c860f66dd6d8e4e997df83d502acc"
+  },
+  "labs/2025_BCC/Lingo2_TransportationProblem.lg4": {
+    "size": 4608,
+    "time": 1795393347,
+    "hash": "dfb87cd24d4c860f66dd6d8e4e997df83d502acc"
+  },
+  "labs/2025_BCC/测试题目.md": {
+    "size": 1995,
+    "time": 1795393347,
+    "hash": "dfb87cd24d4c860f66dd6d8e4e997df83d502acc"
+  },
   "materials/.gitkeep": {
     "size": 0,
     "time": 1737626894,
@@ -75,9 +90,9 @@
     "hash": "f178fc0cbe8a229d7be2e25c501c7560139de16c"
   },
   "readme.toml": {
-    "size": 1384,
-    "time": 1773427785,
-    "hash": "1261b9a871decfa4d8f0202bdabf3ed52091cac1"
+    "size": 1670,
+    "time": 1795393359,
+    "hash": "1290f4a7dd1ecd154a7530255e5306dba2def1c8"
   },
   "slides/.gitkeep": {
     "size": 0,

@@ -1,0 +1,102 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 554,
+    "time": 1794022584,
+    "hash": "c2585642d053b573f72b9c45c9d735509c1acf51"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713079998,
+    "hash": "bd50471f562fe0669d2319ed727a66728b8b1cbc"
+  },
+  "README.md": {
+    "size": 1643,
+    "time": 1795393359,
+    "hash": "1290f4a7dd1ecd154a7530255e5306dba2def1c8"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  },
+  "assignments/2022_yzk/第1章作业.pdf": {
+    "size": 5760139,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第2章作业.pdf": {
+    "size": 6626722,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第3章作业.pdf": {
+    "size": 7916022,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第4章作业.pdf": {
+    "size": 5451739,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第5-6章作业.pdf": {
+    "size": 9802216,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2022_yzk/第7章作业.pdf": {
+    "size": 3663942,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "assignments/2023_lxy_数学规划课后习题参考解答.pdf": {
+    "size": 7355698,
+    "time": 1712478236,
+    "hash": "404a84ad07fcf8fe58343fb96e116adffa2c1bd2"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  },
+  "labs/2025_BCC/Lingo1_NonLinearProgramming.lg4": {
+    "size": 5632,
+    "time": 1795393347,
+    "hash": "dfb87cd24d4c860f66dd6d8e4e997df83d502acc"
+  },
+  "labs/2025_BCC/Lingo2_TransportationProblem.lg4": {
+    "size": 4608,
+    "time": 1795393347,
+    "hash": "dfb87cd24d4c860f66dd6d8e4e997df83d502acc"
+  },
+  "labs/2025_BCC/测试题目.md": {
+    "size": 1995,
+    "time": 1795393347,
+    "hash": "dfb87cd24d4c860f66dd6d8e4e997df83d502acc"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  },
+  "materials/AUTO3028《数学规划与数值优化》20240415.doc": {
+    "size": 62976,
+    "time": 1752820621,
+    "hash": "538af492a3479fff65335d17abf19926d7e22f1f"
+  },
+  "materials/MATH3010数学规划课程教学大纲20211114.docx": {
+    "size": 28377,
+    "time": 1721548060,
+    "hash": "f178fc0cbe8a229d7be2e25c501c7560139de16c"
+  },
+  "readme.toml": {
+    "size": 1670,
+    "time": 1795393359,
+    "hash": "1290f4a7dd1ecd154a7530255e5306dba2def1c8"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737626894,
+    "hash": "381fca2cb5d73f1c3b08b3be278c024b806cb885"
+  }
+}
